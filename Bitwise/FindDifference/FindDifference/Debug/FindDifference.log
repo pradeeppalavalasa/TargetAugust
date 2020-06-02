@@ -1,0 +1,7 @@
+﻿  FindDifference.cpp
+d:\target2020\finddifference\finddifference\finddifference.cpp(9): warning C4018: '<': signed/unsigned mismatch
+d:\target2020\finddifference\finddifference\finddifference.cpp(18): warning C4018: '<': signed/unsigned mismatch
+d:\target2020\finddifference\finddifference\finddifference.cpp(23): warning C4018: '<': signed/unsigned mismatch
+d:\target2020\finddifference\finddifference\finddifference.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  FindDifference.vcxproj -> D:\Target2020\FindDifference\Debug\FindDifference.exe
+  FindDifference.vcxproj -> D:\Target2020\FindDifference\Debug\FindDifference.pdb (Partial PDB)

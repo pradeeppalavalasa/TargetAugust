@@ -1,0 +1,4 @@
+﻿  NonDivisibleSubsets.cpp
+d:\target2020\nondivisiblesubsets\nondivisiblesubsets\nondivisiblesubsets.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  NonDivisibleSubsets.vcxproj -> D:\Target2020\NonDivisibleSubsets\Debug\NonDivisibleSubsets.exe
+  NonDivisibleSubsets.vcxproj -> D:\Target2020\NonDivisibleSubsets\Debug\NonDivisibleSubsets.pdb (Partial PDB)

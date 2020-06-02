@@ -1,0 +1,4 @@
+﻿  SortbyParity.cpp
+d:\target2020\sortbyparity\sortbyparity\sortbyparity.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  SortbyParity.vcxproj -> D:\Target2020\SortbyParity\Debug\SortbyParity.exe
+  SortbyParity.vcxproj -> D:\Target2020\SortbyParity\Debug\SortbyParity.pdb (Partial PDB)

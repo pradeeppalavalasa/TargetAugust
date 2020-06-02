@@ -1,0 +1,4 @@
+﻿  FallingFootBall.cpp
+d:\target2020\fallingfootball\fallingfootball\fallingfootball.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  FallingFootBall.vcxproj -> D:\Target2020\FallingFootBall\Debug\FallingFootBall.exe
+  FallingFootBall.vcxproj -> D:\Target2020\FallingFootBall\Debug\FallingFootBall.pdb (Partial PDB)
