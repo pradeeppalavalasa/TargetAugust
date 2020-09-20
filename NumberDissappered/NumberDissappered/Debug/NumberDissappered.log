@@ -1,5 +1,0 @@
-﻿  NumberDissappered.cpp
-d:\target2020\numberdissappered\numberdissappered\numberdissappered.cpp(12): warning C4018: '<': signed/unsigned mismatch
-d:\target2020\numberdissappered\numberdissappered\numberdissappered.cpp(20): warning C4018: '<': signed/unsigned mismatch
-  NumberDissappered.vcxproj -> D:\Target2020\NumberDissappered\Debug\NumberDissappered.exe
-  NumberDissappered.vcxproj -> D:\Target2020\NumberDissappered\Debug\NumberDissappered.pdb (Partial PDB)
